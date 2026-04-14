@@ -1,20 +1,20 @@
-# IT Troubleshooting Log
+# Journal de dépannage informatique
 
-This repository documents technical issues encountered during my cloud and development practice sessions.
+Ce dépôt contient des problèmes techniques réels rencontrés lors de mes travaux pratiques en cloud et développement.
 
-## Purpose
-To track, analyze, and solve real technical problems in order to improve my skills in IT systems, cloud computing, and development.
+## Objectif
+Ce projet a pour but de documenter, analyser et résoudre des problèmes techniques afin d’améliorer mes compétences en systèmes informatiques, cloud computing et développement.
 
-## Topics covered
-- AWS / Cloud computing issues
-- Linux system problems
-- Web development bugs
-- Git & version control errors
+## Thèmes abordés
+- Problèmes AWS / Cloud computing
+- Problèmes Linux
+- Bugs en développement web
+- Erreurs Git et gestion de version
 
-## Structure of each issue
-Each case includes:
-- Problem description
-- Symptoms
-- Root cause analysis
-- Solution steps
-- Lessons learned
+## Structure de chaque incident
+Chaque problème contient :
+- Description du problème
+- Symptômes observés
+- Analyse de la cause racine
+- Étapes de résolution
+- Leçons apprises
